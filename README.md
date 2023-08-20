@@ -3,5 +3,5 @@
 Here's my comment for the moment:
 
 ```ts
-noDoc() || usingHasOwnProperty() || jsInsteadOfTs() ? die() : celebrate();
+noDoc() || usingHasOwnProperty() || untypedJs() ? die() : celebrate();
 ```
